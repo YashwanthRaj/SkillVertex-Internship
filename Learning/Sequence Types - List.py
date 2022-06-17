@@ -19,7 +19,7 @@ print(nameHalf)
 
 print(name[1:-2:3]) # [start: stop: step value] actual jump size = entered value -1
 
-# LIST
+# LIST declaration using []
 
 L1 = [1 , 'Vikram' , 10.32 , True]
 
